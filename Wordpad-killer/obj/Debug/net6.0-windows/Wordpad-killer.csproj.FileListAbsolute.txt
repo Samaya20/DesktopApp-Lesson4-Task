@@ -1,0 +1,16 @@
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\bin\Debug\net6.0-windows\Wordpad-killer.exe
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\bin\Debug\net6.0-windows\Wordpad-killer.deps.json
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\bin\Debug\net6.0-windows\Wordpad-killer.runtimeconfig.json
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\bin\Debug\net6.0-windows\Wordpad-killer.dll
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\bin\Debug\net6.0-windows\Wordpad-killer.pdb
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\obj\Debug\net6.0-windows\Wordpad_killer.Form1.resources
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\obj\Debug\net6.0-windows\Wordpad-killer.csproj.GenerateResource.cache
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\obj\Debug\net6.0-windows\Wordpad-killer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\obj\Debug\net6.0-windows\Wordpad-killer.AssemblyInfoInputs.cache
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\obj\Debug\net6.0-windows\Wordpad-killer.AssemblyInfo.cs
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\obj\Debug\net6.0-windows\Wordpad-killer.csproj.CoreCompileInputs.cache
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\obj\Debug\net6.0-windows\Wordpad-killer.dll
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\obj\Debug\net6.0-windows\refint\Wordpad-killer.dll
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\obj\Debug\net6.0-windows\Wordpad-killer.pdb
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\obj\Debug\net6.0-windows\Wordpad-killer.genruntimeconfig.cache
+C:\Users\Designers\source\repos\Task-4-Win\Wordpad-killer\obj\Debug\net6.0-windows\ref\Wordpad-killer.dll
